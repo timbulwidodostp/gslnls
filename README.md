@@ -1,6 +1,8 @@
 # gslnls
 GSL multi-start nonlinear least-squares fitting Use gsl_nls (gslnls) With (In) R Software
 
+https://www.youtube.com/watch?v=48EeyXkiupM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
